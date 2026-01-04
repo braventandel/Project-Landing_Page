@@ -67,3 +67,28 @@ a{
     border: none;
     cursor: pointer;
 }
+
+/* || Section 2 */
+
+.info-container{
+    display: flex;
+}
+
+.info-content{
+    display: flex;
+    flex-direction: column;
+}
+
+.cards{
+    
+}
+
+.img-box{
+    display: flex;
+    gap: 20px;
+    width: 200px;
+    height: 200px;
+    border: 5px solid  #3882f6;
+    border-radius: 12px;
+
+}
